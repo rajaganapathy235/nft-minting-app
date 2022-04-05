@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x19d86e91bf08015473691ef5a43a06a8c0f49a5b",
+  "SCAN_LINK": "https://polygonscan.com/address/0x19d86e91bf08015473691ef5a43a06a8c0f49a5b",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "ISHA NFT",
+  "SYMBOL": "ISHA",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 101000000000000000000,
+  "DISPLAY_COST": 101,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/isha-nft",
+  "SHOW_BACKGROUND": true
+}
